@@ -1,0 +1,16 @@
+{
+  "name": "barcodescanner",
+  "version": "1.0.0",
+  "description": "React native barcode scanner for iOS and Android",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "barcode",
+    "scan",
+    "qr"
+  ],
+  "author": "Wayne Guo",
+  "license": "ISC"
+}
